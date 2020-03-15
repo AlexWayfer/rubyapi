@@ -29,7 +29,7 @@ export default class extends Controller {
   }
 
   toggle() {
-    if ( this.switchTarget.classList.contains('light-switch') ) {
+    if (this.switchTarget.classList.contains('light-switch')) {
       setDarkMode(this.switchTarget)
       localStorage.setItem('rubyapi-darkMode', '1')
     } else {
