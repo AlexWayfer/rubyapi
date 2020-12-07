@@ -12,7 +12,7 @@
     "hotkeys-js": "^3.8.1",
     "mustache": "^4.0.1",
     "postcss-cssnext": "^3.1.0",
-    "stimulus": "^1.1.1",
+    "stimulus": "^2.0.0",
     "tailwindcss": "^1.8.10",
     "tailwindcss-dark-mode": "^1.1.6"
   },
