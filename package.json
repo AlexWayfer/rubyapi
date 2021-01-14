@@ -17,6 +17,6 @@
     "tailwindcss-dark-mode": "^1.1.6"
   },
   "devDependencies": {
-    "webpack-dev-server": "^3.11.0"
+    "webpack-dev-server": "^3.11.2"
   }
 }
