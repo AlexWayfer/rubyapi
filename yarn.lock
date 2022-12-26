@@ -542,17 +542,17 @@ source-map-js@^1.0.2:
   resolved "https://registry.yarnpkg.com/source-map-js/-/source-map-js-1.0.2.tgz#adbc361d9c62df380125e7f161f71c826f1e490c"
   integrity sha512-R0XvVJ9WusLiqTCEiGCmICCMplcCkIwwR11mOSD9CR5u+IXYdiseeEuXCVAjS54zqwkLcPNnmU4OeJ6tUrWhDw==
 
-stimulus-dropdown@^2.0.0:
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/stimulus-dropdown/-/stimulus-dropdown-2.0.0.tgz#3d401e418be21787f182c0de4bf0d2fd91cfbf8e"
-  integrity sha512-3VUZ4TI9qHvzw+sOEX1oQA8Pw8C/K5yI+oltr5B9DTwFzuJrFZRWR33OK3ERllzZep+quvHZZljIpIRifKCmCg==
+stimulus-dropdown@^2.1.0:
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/stimulus-dropdown/-/stimulus-dropdown-2.1.0.tgz#22f15cd1dc247e08f04c3f95d7ab9d8102602a07"
+  integrity sha512-p4Bs56/ilB2E0lfFaNajKIHZK1PMUUDnhDl74f97bn087fxIfRB7WQekVtTTWJdRlf3EIgSsDX7K1TsaLiIcLg==
   dependencies:
-    stimulus-use "^0.50.0-2"
+    stimulus-use "^0.51.1"
 
-stimulus-use@^0.50.0-2:
-  version "0.50.0-2"
-  resolved "https://registry.yarnpkg.com/stimulus-use/-/stimulus-use-0.50.0-2.tgz#7b019fa7618133f42b41bb5d4275fe2e92649819"
-  integrity sha512-vnYifIYeiRe2J0PlQ34mYHdOkLB7HVF55RdDErgOBkgHBAqC05vEIwt3xNuyayuhT5YboVmV0eJCfRN1sxumKg==
+stimulus-use@^0.51.1:
+  version "0.51.1"
+  resolved "https://registry.yarnpkg.com/stimulus-use/-/stimulus-use-0.51.1.tgz#55e775eee26d583ee4bdb4427d58979885408ebe"
+  integrity sha512-e7yEDHWz1GrDWwTc1y1Nnz62HPjELRAfn5q1JSCpTj1wHCCs4NNRUR14oZ08xxlp/4bjrgApMOKRkMPKA2TmVg==
   dependencies:
     hotkeys-js ">=3"
 
