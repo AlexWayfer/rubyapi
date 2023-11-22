@@ -1,6 +1,7 @@
 GEM
   remote: https://rubygems.org/
   specs:
+    abbrev (0.1.1)
     actioncable (7.0.3)
       actionpack (= 7.0.3)
       activesupport (= 7.0.3)
@@ -308,7 +309,8 @@ GEM
     rb-fsevent (0.11.0)
     rb-inotify (0.10.1)
       ffi (~> 1.0)
-    rbs (2.5.0)
+    rbs (3.3.2)
+      abbrev
     rdoc (6.4.0)
       psych (>= 4.0.0)
     redis (4.6.0)
