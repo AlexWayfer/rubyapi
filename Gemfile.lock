@@ -230,7 +230,7 @@ GEM
       actionpack (>= 3.2.0, < 7.1)
     method_source (1.0.0)
     mini_mime (1.1.2)
-    mini_portile2 (2.8.0)
+    mini_portile2 (2.8.5)
     minitest (5.15.0)
     msgpack (1.5.2)
     multi_json (1.15.0)
@@ -250,8 +250,8 @@ GEM
       net-protocol
       timeout
     nio4r (2.5.8)
-    nokogiri (1.13.6)
-      mini_portile2 (~> 2.8.0)
+    nokogiri (1.16.2)
+      mini_portile2 (~> 2.8.2)
       racc (~> 1.4)
     parallel (1.22.1)
     parser (3.1.2.0)
@@ -269,7 +269,7 @@ GEM
     public_suffix (4.0.7)
     puma (5.6.4)
       nio4r (~> 2.0)
-    racc (1.6.0)
+    racc (1.7.3)
     rack (2.2.3.1)
     rack-attack (6.6.1)
       rack (>= 1.0, < 3)
