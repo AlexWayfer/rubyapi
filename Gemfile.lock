@@ -378,7 +378,7 @@ GEM
       rack
       railties (>= 5.2)
       redis
-    stringio (3.0.1)
+    stringio (3.0.9)
     strscan (3.0.2)
     temple (0.8.2)
     thor (1.2.1)
