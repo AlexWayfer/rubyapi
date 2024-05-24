@@ -264,7 +264,7 @@ GEM
       activesupport (>= 7.0.0)
       rack
       railties (>= 7.0.0)
-    psych (4.0.3)
+    psych (5.1.2)
       stringio
     public_suffix (4.0.7)
     puma (5.6.4)
@@ -309,7 +309,7 @@ GEM
     rb-inotify (0.10.1)
       ffi (~> 1.0)
     rbs (2.5.0)
-    rdoc (6.4.0)
+    rdoc (6.7.0)
       psych (>= 4.0.0)
     redis (4.6.0)
     redis-session-store (0.11.4)
@@ -378,7 +378,7 @@ GEM
       rack
       railties (>= 5.2)
       redis
-    stringio (3.0.1)
+    stringio (3.1.0)
     strscan (3.0.2)
     temple (0.8.2)
     thor (1.2.1)
