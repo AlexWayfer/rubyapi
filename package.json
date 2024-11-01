@@ -3,7 +3,7 @@
   "private": true,
   "dependencies": {
     "@hotwired/stimulus": "^3.0.1",
-    "@rails/actioncable": "^7.0.3",
+    "@rails/actioncable": "^7.2.200",
     "clipboard-copy": "^4.0.1",
     "esbuild": "^0.14.45",
     "hotkeys-js": "^3.9.4",
