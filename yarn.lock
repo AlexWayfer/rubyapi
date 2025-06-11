@@ -325,10 +325,15 @@ has@^1.0.3:
   dependencies:
     function-bind "^1.1.1"
 
-hotkeys-js@>=3, hotkeys-js@^3.9.4:
+hotkeys-js@>=3:
   version "3.9.4"
   resolved "https://registry.yarnpkg.com/hotkeys-js/-/hotkeys-js-3.9.4.tgz#ce1aa4c3a132b6a63a9dd5644fc92b8a9b9cbfb9"
   integrity sha512-2zuLt85Ta+gIyvs4N88pCYskNrxf1TFv3LR9t5mdAZIX8BcgQQ48F2opUptvHa6m8zsy5v/a0i9mWzTrlNWU0Q==
+
+hotkeys-js@^3.13.11:
+  version "3.13.11"
+  resolved "https://registry.yarnpkg.com/hotkeys-js/-/hotkeys-js-3.13.11.tgz#d2480f052d5e114f7bf3469f035ae1f9c73a6f5d"
+  integrity sha512-8kCCodk9rI8iPhlaBtaeTvC/er/tjC1/pCSK+/XeiQikxCJkw6jprMCk+xkKWc5F3PiZM9JegfUxi/RkZ/UbqA==
 
 is-binary-path@~2.1.0:
   version "2.1.0"
