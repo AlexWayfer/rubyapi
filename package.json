@@ -7,7 +7,7 @@
     "clipboard-copy": "^4.0.1",
     "esbuild": "^0.14.45",
     "hotkeys-js": "^3.9.4",
-    "lodash": "^4.1.1",
+    "lodash": "^4.17.23",
     "monaco-editor": "^0.33.0",
     "mustache": "^4.2.0",
     "postcss": "^8.4.14",
